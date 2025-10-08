@@ -1,13 +1,6 @@
 @import '../node_modules/mini.css/dist/mini-default.min.css';
 
 
-/*
-
-h1 {
-  padding: 1rem;
-  border: 1rem solid aliceblue;
-  outline-offset: 0.2rem;
-  outline: 0.2rem solid blanchedalmond;
-  margin: 0rem;
-
-}*/
+form {
+  min-width: 300px;
+}

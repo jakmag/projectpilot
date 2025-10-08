@@ -1,11 +1,9 @@
-//import ProjectsPage from "./projects/ProjectsPage";
-import Hello from "./projects/Hello";
-
+import ProjectsPage from "./projects/ProjectsPage";
 
 function App() {
   return (
     <div className="container">
-      <Hello name="test name" enthusiasmLevel={0} />
+      <ProjectsPage />
     </div>
   );
 }
